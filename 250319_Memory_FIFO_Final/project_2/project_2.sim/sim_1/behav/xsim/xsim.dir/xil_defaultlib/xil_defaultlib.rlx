@@ -1,0 +1,9 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+C:/Users/kccistc/Desktop/250319_Memory_FIFO_2/project_2/project_2.sim/sim_1/behav/xsim/glbl.v,1605673889,verilog,,,,glbl,,,,,,,,
+C:/Users/kccistc/Desktop/250319_Memory_FIFO_2/project_2/project_2.srcs/sim_1/new/sim_fifo_tb.v,1742370536,verilog,,,,tb_fifo,,,,,,,,
+C:/Users/kccistc/Desktop/250319_Memory_FIFO_2/project_2/project_2.srcs/sources_1/new/fifo.v,1742369813,verilog,,C:/Users/kccistc/Desktop/250319_Memory_FIFO_2/project_2/project_2.srcs/sim_1/new/sim_fifo_tb.v,,fifo;fifo_control_unit;regsiter_file,,,,,,,,
+D:/250319_Memory/project_2/project_2.srcs/sim_1/new/tb_memory.v,1742354691,verilog,,,,tb_mem_ip,,,,,,,,
+D:/250319_Memory/project_2/project_2.srcs/sources_1/new/ram_ip.v,1742354825,verilog,,D:/250319_Memory/project_2/project_2.srcs/sim_1/new/tb_memory.v,,ram_ip,,,,,,,,
